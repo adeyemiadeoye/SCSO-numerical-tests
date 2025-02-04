@@ -1,5 +1,5 @@
 > [!NOTE]
-> The `/paper` directory currently contains codes to reproduce most of the results in the following paper using `v0.1.0` of the package:
+> This repository currently contains codes to reproduce most of the results in the following paper using `v0.1.0` of [SelfConcordantSmoothOptimization.jl](https://github.com/adeyemiadeoye/SelfConcordantSmoothOptimization.jl):
 
 ```
 @article{adeoye2023self,
