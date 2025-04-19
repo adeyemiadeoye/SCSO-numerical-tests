@@ -1,14 +1,1 @@
-> [!NOTE]
-> This repository currently contains codes to reproduce most of the results in the following paper using `v0.1.0` of [SelfConcordantSmoothOptimization.jl](https://github.com/adeyemiadeoye/SelfConcordantSmoothOptimization.jl):
-
-```
-@article{adeoye2023self,
-  title={Self-concordant Smoothing for Large-Scale Convex Composite Optimization},
-  author={Adeoye, Adeyemi D and Bemporad, Alberto},
-  journal={arXiv preprint arXiv:2309.01781},
-  year={2024}
-}
-```
-
-> [!IMPORTANT]
-> Please install `v0.1.0` to run the example codes.
+This repository contains some numerical examples for [SelfConcordantSmoothOptimization.jl](https://github.com/adeyemiadeoye/SelfConcordantSmoothOptimization.jl).
